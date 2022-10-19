@@ -1,0 +1,11 @@
+{
+    "name": "Publish NPM Package from the Release",
+    "description": "Effector Workflow Template.",
+    "categories": [
+        "JavaScript",
+        "TypeScript"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+}
